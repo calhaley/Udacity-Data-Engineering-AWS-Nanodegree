@@ -29,5 +29,3 @@
 * Why use Airflow? Airflow allows workflows to be defined as code, they become more maintainable, versionable, testable, and collaborative
 
 <ins> Capstone Project </ins>
-* This project is the finale to Udacity's data engineering nanodegree. Udacity provides a default dataset however I chose to embark on my own project. 
-* My project is on building a movies data warehouse, which can be used to build a movies recommendation system, as well as predicting box-office earnings.
