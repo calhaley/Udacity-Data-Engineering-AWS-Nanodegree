@@ -11,7 +11,7 @@
 # Projects
 ---
 <ins>Cassandra ETL</ins>
-* This project looks at data modelling for a fictitious music startup Sparkify, applying STAR schema to ingest data to simplify queries that answers business questions the product owner may have
+* In this project, we apply Data Modeling with Cassandra and build an ETL pipeline using Python. We will build a Data Model around our queries that we want to get answers for.
 
 <ins>Web Scrapying using Scrapy, MongoDB ETL</ins>
 * In storing semi-structured data, one form to store it in, is in the form of documents. MongoDB makes this possible, with a specific collection containing related documents. Each document contains fields of data which can be queried. 
