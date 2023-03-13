@@ -3,15 +3,6 @@
 The basis of this project is to build an ELT pipeline which will extract data from s3 storage, stage the data in Redshift and proceed to transform the
 data into dimensional tables for analytics teams to continue finding insights into what songs their users are listening to.
 
-## Project Structure
-
-Cloud DataWarehouse
-create_tables.py    # database/table creation script 
-etl.py              # ELT builder
-sql_queries.py      # SQL query collections
-dwh.cfg             # AWS configuration file
-test.ipynb          # testing
-
 ## Database Design
 
 * A STAR schema will be utilised as it will provide fast aggregations of data whilst also simplify queries.
