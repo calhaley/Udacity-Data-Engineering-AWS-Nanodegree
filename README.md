@@ -13,10 +13,6 @@
 <ins>Cassandra ETL</ins>
 * In this project, we apply Data Modeling with Cassandra and build an ETL pipeline using Python. We will build a Data Model around our queries that we want to get answers for.
 
-<ins>Web Scrapying using Scrapy, MongoDB ETL</ins>
-* In storing semi-structured data, one form to store it in, is in the form of documents. MongoDB makes this possible, with a specific collection containing related documents. Each document contains fields of data which can be queried. 
-* In this project, data is scraped from a books listing website using Scrapy. The fields of each book, such as price of a book, ratings, whether it is available is stored in a document in the books collection in MongoDB.
-
 <ins> Data Warehousing with AWS Redshift</ins>
 * This project creates a data warehouse, in AWS Redshift. A data warehouse provides a reliable and consistent foundation for users to query and answer some business questions based on requirements.
 
