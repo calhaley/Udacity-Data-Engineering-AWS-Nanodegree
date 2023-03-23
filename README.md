@@ -21,11 +21,9 @@
 * This project creates a data warehouse, in AWS Redshift. A data warehouse provides a reliable and consistent foundation for users to query and answer some business questions based on requirements.
 
 <ins> Data Lake with Spark & AWS S3 </ins>
-* This project creates a data lake, in AWS S3 using Spark. 
-* Why create a data lake? A data lake provides a reliable store for large amounts of data, from unstructured to semi-structured and even structured data. In this project, we ingest json files, denormalize them into fact and dimension tables and upload them into a AWS S3 data lake, in the form of parquet files.
+* Use Spark and AWS Glue allow you to process data from multiple sources, categorize the data, and curate it to be queried in the future for multiple purposes.
+* Build a data lakehouse solution for sensor data that trains a machine learning model.
 
 <ins> Data Pipelining with Airflow </ins>
 * This project schedules data pipelines, to perform ETL from json files in S3 to Redshift using Airflow. 
 * Why use Airflow? Airflow allows workflows to be defined as code, they become more maintainable, versionable, testable, and collaborative
-
-<ins> Capstone Project </ins>
